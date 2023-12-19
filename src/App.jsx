@@ -23,7 +23,7 @@ const App = () => {
         <button className='inc' onClick={decrease}>-</button>
     </div>
     <div>
-        ipsum lorem
+        
     </div>
    </>
   )
